@@ -26,7 +26,7 @@ def evaluate(guess):
     else:
 
         my_num = randint(0,9)
-        return 'That was my number!</h2><br><img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif"><br><p><a href="#">You can replay if you want.</a></p>'
+        return 'That was my number!</h2><br><img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif"><br><p><a href="/">You can replay if you want.</a></p>'
 
 
 
