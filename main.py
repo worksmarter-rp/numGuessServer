@@ -6,7 +6,7 @@ def create_index():
     a_string = ""
     for i in range(0,10):
         a_string += f'<a href="{i}"> {i} </a>'
-    return f'<br><br><p> {a_string}</p>'
+    return f'<br><br><p> {a_string}</p><br><a href="https://dynamicguess.onrender.com/"> An even better number guessing game </a>'
 
 
 my_num = randint(0,9)
